@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text-display {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.text-body {
+  font-family: 'Heebo', sans-serif;
+}
+
+.text-secondary {
+  font-family: 'Nunito Sans', sans-serif;
+}
+/*# sourceMappingURL=app.css.map */
